@@ -4,5 +4,6 @@ This is a project about creating the perfect government. Another name for it is 
 
 ## Table of Contents
 
+- [Modern](modern.md)
 - [Structure](structure.md)
 - [Education](education.md) 
